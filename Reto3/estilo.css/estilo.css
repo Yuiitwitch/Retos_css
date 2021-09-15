@@ -1,0 +1,29 @@
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    border: 5px solid lightgray;
+    width: 100%;
+    font-family: serif;
+}
+th,tr,td{
+    
+    text-align: center;
+    border: 2px solid lightgray
+}
+.celda1{
+    background-color: lightgreen;
+    text-align: center;
+}
+.celda2{
+    text-align: left;
+    background-color: lightblue;
+}
+.celda3{
+    text-align: right;
+    background-color: rgb(238, 142, 238);
+}
+.texto{
+   color: red;
+}

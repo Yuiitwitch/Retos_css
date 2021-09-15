@@ -1,0 +1,28 @@
+div{
+    padding: 5px;
+    text-align: center;
+}
+table{
+    border: 5px solid lightblue;
+    padding: 2px;
+    box-shadow: 5px 5px darkgray;
+}
+
+tr,td ,th{
+    border-top: 3px solid lightblue;
+    border-left: 3px solid lightblue;
+    border-right: 3px solid lightblue;
+    border-bottom: 3px solid lightblue;
+}
+th{
+    background-color: darkslategray;
+}
+.fila1{
+    background-color: darkgreen;
+}
+.fila2{
+    background-color: lightgreen;
+}
+.fila3{
+    background-color: darkgreen;
+}

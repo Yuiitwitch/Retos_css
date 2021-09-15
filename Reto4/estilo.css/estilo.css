@@ -1,0 +1,15 @@
+table{
+    border: 2px solid lightgray;
+    width: 65%;
+    text-align: center;
+}
+th,tr,td{
+    border: 2px solid lightgray;
+}
+.celda{
+    background-color: lightyellow;
+}
+div{
+    background-image: url("https://s1.1zoom.me/b3556/124/Texture_Multicolor_526935_1080x1920.jpg");
+    
+}
