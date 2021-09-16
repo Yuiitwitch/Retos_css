@@ -1,0 +1,21 @@
+#cabeza{
+    background-color: red;
+    height: 10vh;
+}
+#cuerpo{
+    background-color: forestgreen;
+    height: 55vh;
+    display:grid;
+    grid-template-columns: 2fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 30px;
+}
+#footer{
+    background-color: fuchsia;
+    height: 15vh;
+
+}
+#box{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+}

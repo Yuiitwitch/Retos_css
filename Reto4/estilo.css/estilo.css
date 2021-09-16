@@ -1,6 +1,15 @@
+div{
+    background-image: url("https://s1.1zoom.me/b3556/124/Texture_Multicolor_526935_1080x1920.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 table{
     border: 2px solid lightgray;
-    width: 65%;
+    width: 40%;
     text-align: center;
 }
 th,tr,td{
@@ -8,8 +17,4 @@ th,tr,td{
 }
 .celda{
     background-color: lightyellow;
-}
-div{
-    background-image: url("https://s1.1zoom.me/b3556/124/Texture_Multicolor_526935_1080x1920.jpg");
-    
 }

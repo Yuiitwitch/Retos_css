@@ -1,0 +1,64 @@
+#head{
+    width: 100vw;
+    height: 10vh;
+}
+#cuerpo{
+ width: 100vw;
+ height: 70vh;
+}
+#footer{
+    width: 100vw;
+    height: 20vh;
+}
+#div1{
+    display:flex;
+    float:left;
+    justify-content: left;
+    width: 50vw;
+    
+}
+input{
+    border-radius: 5vh;
+    width: 30vw;
+    height: 5vh;
+}
+a{
+    margin: 10px;
+}
+
+#div2{
+    display:flex;
+    float: right;
+    justify-content: right;
+    width: 50vw;
+}
+#avatar{
+    height: 30px;
+    width: 50px;
+}
+#google{
+    height: 20vh;
+    display:flex;
+    float:center;
+    justify-content: center;
+}
+#botones{
+    display:flex;
+    float:center;
+    justify-content: center;
+}
+#botones2{
+    display: flex;
+    float: center;
+    justify-content: center;
+}
+#link{
+    display: flex;
+    float: center;
+    justify-content: center;
+}
+#back1{
+    display: flex;
+    float: center;
+    justify-content: center;
+}
