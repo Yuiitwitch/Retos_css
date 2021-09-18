@@ -58,6 +58,7 @@ a{
     justify-content: center;
 }
 #botones{
+    padding: 20px;
     height: 3vw;
     display:flex;
     float:center;
@@ -69,6 +70,7 @@ a{
     float: center;
     justify-content: center;
 }
+
 #link{
     display: flex;
     float: center;
