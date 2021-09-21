@@ -1,0 +1,19 @@
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+tr,td{
+
+}
+.titulo{
+    background-color: darkgreen;
+}
+.celdas1{
+    background-color: orange;
+}
+.celdas2{
+    background-color: rgb(241, 241, 166) ;
+}
+.celdas3{
+    background-color: yellow;
+}

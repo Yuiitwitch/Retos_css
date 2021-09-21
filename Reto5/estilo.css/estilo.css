@@ -1,3 +1,6 @@
 .lista{
-    list-style:armenian;
+    list-style-type:lower-latin;
+}
+.lista2{
+    list-style-type: upper-roman;
 }

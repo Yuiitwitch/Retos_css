@@ -1,0 +1,125 @@
+body{
+    margin: 0 0 0 0;
+}
+.container{
+    background-image: url(/Reto7/img/ac.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+.primera{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    height: 33vh;
+}
+.segunda{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 33vh;
+}
+.tercera{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 33vh;
+}
+.a{
+    background-image: url(/Reto7/img/back_mantel.jpg);
+    align-items: center;
+    justify-content: center;
+    width: 12%;
+    height: 75%;
+    margin: 55px;
+}
+.b{
+    background-image: url(/Reto7/img/back_mantel.jpg);
+    width: 10%;
+    height: 65%;
+    margin: 55px;
+}
+.c{
+    background-image: url(/Reto7/img/back_mantel.jpg);
+    background-size: 100% 100%;
+    width: 11%;
+    height: 75%;
+    margin: 55px;
+}
+.d{
+    background-image: url(/Reto7/img/back_mantel.jpg);
+    background-color: white;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    border: solid 1px white;
+    width: 11%;
+    height: 75%;
+    margin: 55px;
+}
+.e{
+    background-image: url(/Reto7/img/dh.jpg);
+    background-size: 100% 100%;
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+
+}
+.f{
+    background-image: url(/Reto7/img/dh.jpg);
+    background-color: white;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    border: solid 1px white;
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+    
+}
+.g{
+    background-image: url(/Reto7/img/dh_2.jpg);
+    background-color: white;
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+.h{
+    background-image: url(/Reto7/img/dh_3.jpg);
+    background-color: white;
+    background-size: 40% 100%;
+    background-repeat: no-repeat;
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+.i{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(82,184,64,1) 100%, rgba(0,212,255,1) 100%);
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+.j{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,142,130,1) 100%, rgba(233,193,186,1) 100%);
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+.k{
+    background: rgb(73,163,7);
+    background: radial-gradient(circle, rgba(73,163,7,1) 0%, rgba(249,249,249,1) 100%);
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+.l{
+    background: rgb(73,163,7);
+    background: linear-gradient(211deg, rgba(73,163,7,1) 0%, rgba(249,249,249,0.4962359943977591) 34%);
+    width: 13%;
+    height: 73%;
+    margin: 55px;
+}
+
